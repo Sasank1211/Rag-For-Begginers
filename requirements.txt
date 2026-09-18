@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-experimental
+langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
+langchain-ollama
+python-dotenv
+jupyter
+ipykernel
